@@ -1,0 +1,15 @@
+[project]
+name = "ReaFlow"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Marc",email = "wm2041@mci4me.at"},
+]
+dependencies = []
+requires-python = "==3.13.*"
+readme = "README.md"
+license = "MIT"
+
+
+[tool.pdm]
+distribution = false
